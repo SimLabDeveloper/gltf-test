@@ -4,7 +4,7 @@ Status of [glTF loader](https://github.com/KhronosGroup/glTF#webgl-engines) in s
 
 ## All Tests
 
-[All Tests]( https://cdn.rawgit.com/cx20/gltf-test/d1f6b490fb4ac1513a1e8d9ded350643cd75923c/index.html ) : https://github.com/cx20/gltf-test/tree/2.0
+[All Tests]( https://cdn.rawgit.com/cx20/gltf-test/d1f6b490fb4ac1513a1e8d9ded350643cd75923c/index.html ) : https://github.com/cx20/gltf-test/tree/2.0 ![status](https://img.shields.io/badge/glTF-2%2E0-green.svg?style=flat)
 
 |Model Name           |Models  |Formats  |Libraries|Tests|
 |:--------------------|:------:|:-------:|:-------:|:---:|
